@@ -17,7 +17,7 @@
         "wsSettings": {
           "path": "/ws",
           "headers": {
-            "Host": "www.youtube.com"
+            "Host": "www.speedtest.net"
           }
         }
       }
